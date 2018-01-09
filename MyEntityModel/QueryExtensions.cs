@@ -5,6 +5,7 @@ using System.Linq.Expressions;
 
 namespace MyEntityModel
 {
+    //https://weblogs.asp.net/davidfowler/dynamic-sorting-with-linq
     public static class QueryExtensions
     {
         /// <summary>

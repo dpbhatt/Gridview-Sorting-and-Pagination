@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationDemo", "PaginationDemo\PaginationDemo.csproj", "{B2198914-21BC-4785-A6FD-5B4ED2E72C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEntityModel", "MyEntityModel\MyEntityModel.csproj", "{C432F526-7A9B-40B8-A4CA-8E0DDCA71273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2198914-21BC-4785-A6FD-5B4ED2E72C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2198914-21BC-4785-A6FD-5B4ED2E72C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2198914-21BC-4785-A6FD-5B4ED2E72C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2198914-21BC-4785-A6FD-5B4ED2E72C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C432F526-7A9B-40B8-A4CA-8E0DDCA71273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C432F526-7A9B-40B8-A4CA-8E0DDCA71273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C432F526-7A9B-40B8-A4CA-8E0DDCA71273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C432F526-7A9B-40B8-A4CA-8E0DDCA71273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
